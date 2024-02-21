@@ -1,6 +1,6 @@
 # AI-900-IndicePesquisa
 Explorar um índice de Pesquisa de IA (UI) do Azure
-Neste laboratório vamos criar:
+Neste resumo vamos criar:
 -  Criar recursos do Azure.
 - Extrair dados de uma fonte de dados.
 - Enriqueça dados com habilidades de IA.
